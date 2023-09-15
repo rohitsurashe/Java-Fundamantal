@@ -1,3 +1,5 @@
+//Program to demonstrate number of arguments
+// 15/09/2023
 class Demo{
     public static void sum(int...a)
     {
